@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1430327437 source:c:\users\tom\documents\spring 2015 semester\comp_271\ants_on_a_table\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+
+1430251457 source:c:\users\tom\documents\spring 2015 semester\comp_271\ants_on_a_table\ant.cpp
+
